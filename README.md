@@ -19,7 +19,7 @@ Este projeto é uma aplicação simples desenvolvida com o framework Laravel, qu
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/SEU_USUARIO/cadastro-corretores.git
+    git clone https://github.com/Luanhp0/GerenciarCorretor.git
     ```
 
 2. **Instale as dependências do projeto**:
