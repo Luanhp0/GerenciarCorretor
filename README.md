@@ -89,8 +89,3 @@ Sinta-se à vontade para contribuir com este projeto. Caso queira adicionar nova
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-
-
-
-
-
